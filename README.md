@@ -111,5 +111,5 @@ The application uses **React Router** for seamless navigation between pages:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/evangadi-forum-frontend.git
+   git clone https://github.com/Ribka12/EvangadiForum-Frontend.git
 
